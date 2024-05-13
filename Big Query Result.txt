@@ -1,0 +1,9 @@
+Query Relationship Table
+https://console.cloud.google.com/bigquery?sq=969902936035:7de5066a7d7746dcb54fc2cdeb304c3b
+
+Query Create table_master
+https://console.cloud.google.com/bigquery?sq=969902936035:07ca08488bf8469f99ca05c429779c95
+
+
+Dataset
+https://console.cloud.google.com/bigquery?ws=!1m4!1m3!3m2!1sbankmuamalat-bi-analyst-retno!2sfinaltaskbianalyst
